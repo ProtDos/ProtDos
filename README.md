@@ -7,7 +7,7 @@
 - 👯 I'm looking to partner with: joung deveoplopers to code with
 - 🤔 I'm looking for help with: *currently nothing*
 - 💬 Ask me about: everything related to coding
-- 📫 How to reach me: **admin@protdos.com**, Discord: **CodingLive#0001**
+- 📫 How to reach me: **admin@protdos.com**, Discord: [**CodingLive#0001**](https://discord.com/users/786495827827752990)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ProtDos&theme=dark&show_icons=true&count_private=true"/>
 
