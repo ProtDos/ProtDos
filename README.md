@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey There 👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### :woman_technologist: &nbsp;About Me :
+### :woman_technologist: &nbsp;About Me:
 
 I am a Full Stack Developer from Germany.
 
@@ -17,7 +17,7 @@ I am a Full Stack Developer from Germany.
 
 ---
 
-### 🔥 &nbsp;Employment :
+### 🔥 &nbsp;Employment:
 You want to have something like this?:
 - Web Development
 - Server Hosting
@@ -28,7 +28,7 @@ Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:roo
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -44,8 +44,8 @@ Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:roo
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=protdos&theme=dark&background=000000)](https://git.io/streak-stats)
+### 🔥 &nbsp; My Stats
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=protdos&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protdos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
