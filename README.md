@@ -45,7 +45,7 @@ Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:roo
 ---
 
 ### 🔥 &nbsp; My Stats
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=protdos&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=protdos&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protdos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
