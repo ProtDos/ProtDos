@@ -20,7 +20,7 @@ I am a Full Stack Developer from Germany.
 ### 🔭 Portfolio
 If you want to learn more about myself and my projects, visit my portfolio website down below:
 <div align="center">
-<img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" />
+<img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" width="150" height="150"/>
 </div>
 
 ### 🔥 &nbsp;Employment:
@@ -36,6 +36,7 @@ Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:roo
 
 ### 🛠 &nbsp;Languages and Tools:
 
+<div align="center">
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg"  title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
@@ -47,6 +48,7 @@ Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:roo
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
+</div>
 
 ---
 
