@@ -20,7 +20,7 @@ I am a Full Stack Developer from Germany.
 ### 🔭 Portfolio
 If you want to learn more about myself and my projects, visit my portfolio website down below:
 <div align="center">
-<a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" width="150" height="150"/></a>
+<a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="100"/></a>
 </div>
 
 ### 🔥 &nbsp;Employment:
@@ -53,9 +53,9 @@ Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:roo
 ---
 
 ### 🔥 &nbsp; My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=protdos&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=protdos&theme=dark&background=000000)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protdos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protdos&layout=compact&theme=vision-friendly-dark)](#)
 
 ---
 
