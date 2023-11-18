@@ -20,7 +20,7 @@ I am a Full Stack Developer from Germany.
 ### 🔭 Portfolio
 If you want to learn more about myself and my projects, visit my portfolio website down below:
 <div align="center">
-<a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="100"/></a>
+<a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="90"/></a>
 </div>
 
 ### 🔥 &nbsp;Employment:
