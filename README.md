@@ -13,7 +13,7 @@ I am a Full Stack Developer from Germany.
 - 🔭 I’m working as a Software Engineer and working on publishing my own app - [Veilo](https://veilo.protdos.com)
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on LeetCode an make a little bit of extra money.
-- 📫 How to reach me: [**rootcode@duck.com**]("mailto:rootcode@duck.com"), Discord: [**@CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
+- 📫 How to reach me: [**rootcode@duck.com**](mailto:rootcode@duck.com), Discord: [**@CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
 
 ---
 
