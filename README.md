@@ -30,7 +30,7 @@ You want to have something like this?:
 - Discord Bots (any kind)
 - Scrapers
 - Custom code?
-Please just hit me up via my contacts: &nbsp; [**rootcode@uck.com**]("mailto:rootcode@duck.com"), Discord: [**CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
+Please just hit me up via my contacts: &nbsp;[**rootcode@uck.com**]("mailto:rootcode@duck.com"), Discord: [**CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
 
 ---
 
