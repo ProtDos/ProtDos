@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/69071809?v=4" width="100" style="border-radius: 15px"/></a></p>
+<p align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/69071809?v=4" width="100" style="border-radius: 5%"/></a></p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/codinglive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
@@ -20,7 +20,7 @@ I am a Full Stack Developer from Germany.
 ### 🔭 Portfolio
 If you want to learn more about myself and my projects, visit my portfolio website down below:
 <div align="center">
-<a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="90"/></a>
+<a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="70"/></a>
 </div>
 
 ### 🔥 &nbsp;Employment:
