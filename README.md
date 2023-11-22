@@ -1,10 +1,10 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/69071809?v=4" width="100" style="border-radius: 15px"/></p>
+<p align="center"><a href="#"><img src="https://avatars.githubusercontent.com/u/69071809?v=4" width="100" style="border-radius: 15px"/></a></p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/codinglive" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=protdos&style=flat-square&color=blue" alt=""></p>
+<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=protdos&style=flat-square&color=blue" alt=""></a></p>
 
-<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey There <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1></a>
 
 ### :woman_technologist: &nbsp;About Me:
 
