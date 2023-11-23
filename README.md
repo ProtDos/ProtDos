@@ -22,7 +22,9 @@ If you want to learn more about myself and my projects, visit my portfolio websi
 <div align="center">
 <a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="70"/></a>
 </div>
-or click the link [here](https://portfolio.protdos.com)
+or click the link: 
+
+[**here**](https://portfolio.protdos.com)
 
 ### 🔥 &nbsp;Employment:
 You want to have something like this?:
