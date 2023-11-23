@@ -10,7 +10,7 @@
 
 I am a Full Stack Developer from Germany.
 
-- 🔭 I’m working as a Software Engineer and working on publishing my own app - [Veilo](https://veilo.protdos.com)
+- 🔭 I’m working as a Software Engineer and on publishing my own app - [Veilo](https://veilo.protdos.com)
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on LeetCode an make a little bit of extra money.
 - 📫 How to reach me: [**rootcode@duck.com**](mailto:rootcode@duck.com), Discord: [**@CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
@@ -22,6 +22,7 @@ If you want to learn more about myself and my projects, visit my portfolio websi
 <div align="center">
 <a href="https://portfolio.protdos.com"><img src="https://img.shields.io/badge/portfolio-grey?style=for-the-badge&logo=powerbi&link=https://portfolio.protdos.com" height="70"/></a>
 </div>
+or click the link [here](https://portfolio.protdos.com)
 
 ### 🔥 &nbsp;Employment:
 You want to have something like this?:
@@ -30,7 +31,7 @@ You want to have something like this?:
 - Discord Bots (any kind)
 - Scrapers
 - Custom code?
-Please just hit me up via my contacts: &nbsp;[**rootcode@uck.com**]("mailto:rootcode@duck.com"), Discord: [**CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
+Please just hit me up via my contacts: &nbsp;[**rootcode@duck.com**]("mailto:rootcode@duck.com"), Discord: [**CodingLive**](https://discord.com/users/786495827827752990), Telegram: [**xoding**](https://t.me/xoding)
 
 ---
 
