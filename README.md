@@ -24,7 +24,7 @@ If you want to learn more about myself and my projects, visit my portfolio websi
 </div>
 or click the link: 
 
-[**here**](https://portfolio.protdos.com)
+[**here**](https://codinglive.dev)
 
 ### 🔥 &nbsp;Employment:
 You want to have something like this?:
